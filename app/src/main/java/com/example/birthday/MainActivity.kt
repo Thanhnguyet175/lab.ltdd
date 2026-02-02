@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
 fun BusinessCard() {
     Surface(
         modifier = Modifier.fillMaxSize(),
-        color = Color(0xFFFFF9C4) // vang nhat
+        color = Color(0xFFFFF9C4) 
     ) {
         Column(
             modifier = Modifier
@@ -81,7 +81,6 @@ fun BusinessCard() {
                 )
             }
 
-            // Day tiep de footer xuong duoi
             Spacer(modifier = Modifier.weight(1f))
 
             // Footer
@@ -109,13 +108,13 @@ fun BusinessCard() {
                 imageVector = icon,
                 contentDescription = null,
                 modifier = Modifier.size(20.dp),
-                tint = Color(0xFF6D4C41) // mau nau icon
+                tint = Color(0xFF6D4C41)
             )
             Spacer(modifier = Modifier.width(16.dp))
             Text(
                 text = text,
                 fontSize = 14.sp,
-                color = Color(0xFF5D4037) // mau nau chu
+                color = Color(0xFF5D4037) 
             )
         }
     }
