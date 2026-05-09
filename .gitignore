@@ -1,0 +1,19 @@
+# Khong push cac project khong phai lab
+
+DoAn/
+connectfireblass/
+fire/
+gemgem/
+milkteaapp/
+thiGK/
+
+# Android build files
+
+.gradle/
+build/
+.idea/
+local.properties
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/

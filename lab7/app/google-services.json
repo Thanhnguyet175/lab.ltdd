@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951335570188",
+    "project_id": "milab7-cab99",
+    "storage_bucket": "milab7-cab99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951335570188:android:5fc881759d3b2ca2e99729",
+        "android_client_info": {
+          "package_name": "com.example.lab7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqjbZ4QXQyl6dzUD3S3obVbZ8LaJkB3PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

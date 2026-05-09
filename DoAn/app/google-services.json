@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501260564723",
+    "project_id": "doanmilktea",
+    "storage_bucket": "doanmilktea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501260564723:android:a5f50116fb31c91e7adf86",
+        "android_client_info": {
+          "package_name": "com.example.doan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArGdddL25kHPOgySMPHxfFK4217X9Ybp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
