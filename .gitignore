@@ -1,5 +1,4 @@
 # Khong push cac project khong phai lab
-
 DoAn/
 connectfireblass/
 fire/
@@ -7,13 +6,20 @@ gemgem/
 milkteaapp/
 thiGK/
 
-# Android build files
-
+# Android / IntelliJ
+.idea/
 .gradle/
 build/
-.idea/
+**/build/
 local.properties
 *.iml
 captures/
 .externalNativeBuild/
 .cxx/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
